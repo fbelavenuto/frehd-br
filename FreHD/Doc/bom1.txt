@@ -1,0 +1,51 @@
+Part Value       Device          Package      Description
+
+U1   PIC18F4620  PIC18F4680      PDIP-40
+U2   GAL16V8     ATF16V8BP3      DIL20        High perfomance CMOS (electrically erasable) programmable logic device (PLD)
+U3   74HCT245N   74HCT245N       DIL20        Octal BUS TRANSCEIVER, 3-state
+U5   MAX232      MAX232PTH       DIL16        RS232 Transceiver
+U6   74HC595N    74HC595N        DIL16        8-bit SHIFT REGISTER, output latch
+U7   DS1307      DS1307          DIL08        DS1307
+IC1  LP2950-3V3  LP2950Z         TO92         100 mA, Low Power Low Dropout Voltage Regulator
+Q1   BS170       BS170           SOT54E       N-CHANNEL MOS FET
+J1   MICROSD     MICROSD         MICROSD      Micro SD Socket (optional)
+J2   SDMMC06132  SDMMC06132      06132        SD MMC Card holder
+XT1  32.768KHz   CRYSTALTC26V    TC26V        CRYSTAL
+XT2  10MHz       CRYSTALHC49U-V  HC49U-V      CRYSTAL
+B1   CR2032H     CR2032H         CR2032H      LI BATTERY Varta
+C1   100n        C-EU050-024X044 C050-024X044 CAPACITOR, European symbol
+C2   22p         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol
+C3   22p         C-EU050-024X044 C050-024X044 CAPACITOR, European symbol
+C4   100n        C-EU050-024X044 C050-024X044 CAPACITOR, European symbol
+C5   10u         CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C6   1u          CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C7   1u          CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C8   1u          CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C9   100n        C-EU050-024X044 C050-024X044 CAPACITOR, European symbol
+C10  1u          CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C11  1u          CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+C12  10u         CPOL-EUE2-4     E2-4         POLARIZED CAPACITOR, European symbol
+R1   4K7         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R2   10K         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R3   4K7         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R4   10K         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R5   10K         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R6   330         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R7   220         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R8   330         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R9   220         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R10  220         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R11  330         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R12  10K         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R13  330         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R14  330         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R15  10K         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R16  4K7         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R17  4K7         R-EU_0207/10    0207/10      RESISTOR, European symbol
+R18  4K7         R-EU_0207/10    0207/10      RESISTOR, European symbol
+X1   MUSB-B      MiniUSB type B  M-USB B      Mini USB type B connector
+JP1  BUS         PINHD-2X25      2X25         PIN HEADER
+SV1  Serial      MA05-1          MA05-1       PIN HEADER
+SV2  ICSP        MA05-1          MA05-1       PIN HEADER
+LED1 VM          LED3MM          LED3MM       LED Red 3mm
+LED2 VD          LED3MM          LED3MM       LED Green 3mm
